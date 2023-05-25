@@ -1,0 +1,10 @@
+/Users/noraa-stoke/software-dev/rust/space_invaders/target/debug/deps/owned_ttf_parser-958b276c08507a45.rmeta: /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/noraa-stoke/software-dev/rust/space_invaders/target/debug/deps/libowned_ttf_parser-958b276c08507a45.rlib: /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/noraa-stoke/software-dev/rust/space_invaders/target/debug/deps/owned_ttf_parser-958b276c08507a45.d: /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs:
+/Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs:
+/Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs:
+/Users/noraa-stoke/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs:
