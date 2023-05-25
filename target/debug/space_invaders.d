@@ -1,1 +1,0 @@
-/Users/noraa-stoke/software-dev/rust/space_invaders/target/debug/space_invaders: /Users/noraa-stoke/software-dev/rust/space_invaders/src/drawing.rs /Users/noraa-stoke/software-dev/rust/space_invaders/src/game.rs /Users/noraa-stoke/software-dev/rust/space_invaders/src/main.rs
