@@ -116,6 +116,21 @@ impl Game {
         if enemies_on_ground >= MAX_ENEMIES_ON_GROUND {
             self.reset();
         }
+        // Update bullets
+        for bullet in &mut self.bullets {
+            bullet.y -= BULLET_SPEED * dt;
+        }
+
+        // Update enemies
+        for enemy in &mut self.enemies {
+            enemy.y += ENEMY_SPEED * dt;
+        }
+
+        // Remove off-screen bullets
+        self.bullets.retain(|bullet| bullet.y > 0.0);
+
+        // Remove off-screen enemies
+        self.enemies.retain(|enemy| enemy.y < self.window_height);
     }
 
     pub fn draw(&self, c: &Context, g: &mut G2d) {
@@ -126,7 +141,13 @@ impl Game {
         let (player_x, player_y) = (self.player.x, self.player.y);
         rectangle(
             PLAYER_COLOR,
-            [player_x - 10.0, player_y - 10.0, 20.0, 20.0],
+            [player_x - 20.0, player_y - 10.0, 20.0, 20.0],
+            c.transform,
+            g,
+        );
+        rectangle(
+            PLAYER_COLOR,
+            [player_x, player_y - 10.0, 20.0, 20.0],
             c.transform,
             g,
         );
